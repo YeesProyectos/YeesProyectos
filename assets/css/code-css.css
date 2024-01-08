@@ -1,0 +1,9 @@
+.image img {
+	height: 300px !important;
+}
+
+.tiles article h2,
+.tiles article .content p {
+	font-weight: bold !important;
+	color: black !important;
+}
